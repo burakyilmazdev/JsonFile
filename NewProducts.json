@@ -1,12 +1,12 @@
 [
   {
- "id":"iPhone 13 Pro Maxx",
+ "id":"1",
 "name":"iPhone 13 Pro Maxx",
 "price":"28.350 TL",
 "url":"https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/1-%20Iphone%2013%20Pro%20Max.png"
   },
   {
- "id":"23",
+ "id":"2",
 "name":"Macbook Pro",
 "price":"32.330 TL",
 "url":"https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/2%20-%20Macbook%20Pro.png"
