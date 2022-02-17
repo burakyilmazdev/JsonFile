@@ -1,30 +1,30 @@
 [
   {
-"id": "1",
+"id": "6",
 "name": "Casper Nirvana",
 "price": "8.350 TL",
 "url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/Casper%20Nirvana.png"
   },
   {
-"id": "2",
+"id": "7",
 "name": "LG Çamaşır Makinesi",
 "price": "6.450 TL",
 "url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/LG%20%C3%87ama%C5%9F%C4%B1r%20Makinesi.jpg"
   },
   {
-"id": "3",
+"id": "8",
 "name": "Logitech Mouse",
 "price": "250 TL",
 "url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/Logitech%20Mouse.jpg"
   },
   {
-"id": "4",
+"id": "9",
 "name": "Philips Kahve Makinesi",
 "price": "579 TL",
 "url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/Philips%20Kahve%20Makinesi.jpg"
   },
   {
-"id": "5",
+"id": "10",
 "name": "Samsung Galaxy A52",
 "price": "5.999 TL",
 "url": "https://raw.githubusercontent.com/burakyilmazdev/JsonFile/main/Samsung%20Galaxy%20A52.png"
